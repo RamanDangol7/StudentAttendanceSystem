@@ -1,0 +1,38 @@
+2025-07-28 09:07:33 - Login attempt started
+POST data: Array
+(
+    [username] => admin2
+    [password] => 12345
+    [role] => admin
+)
+
+Checking user: admin2 with role: admin
+Found 1 matching users
+User found: Array
+(
+    [id] => 71
+    [username] => admin2
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [role] => admin
+)
+
+Password verification failed
+2025-07-28 09:08:12 - Login attempt started
+POST data: Array
+(
+    [username] => admin2
+    [password] => 12345
+    [role] => admin
+)
+
+Checking user: admin2 with role: admin
+Found 1 matching users
+User found: Array
+(
+    [id] => 71
+    [username] => admin2
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+    [role] => admin
+)
+
+Password verification failed
